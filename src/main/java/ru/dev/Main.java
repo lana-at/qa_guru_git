@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Черт ногу сломит в этих ветках!!!!!!!");
         System.out.println("ваяю конфликт");
         System.out.println("Подкиньте мозгов, кому не жалко");
+        System.out.println("Памагити");
     }
 }
